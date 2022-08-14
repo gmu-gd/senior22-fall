@@ -19,6 +19,7 @@ function form() {
     var slide1 = document.getElementById('gd-skills');
     var slide2 = document.getElementById('gd-understanding');
     var slide3 = document.getElementById('public-speaking');
+    var slide4 = document.getElementById('critique');
     if ($(slide1).hasClass("slide-clicked")) {
       console.log("has class");
     } else {
@@ -37,6 +38,12 @@ function form() {
       console.log("does not have class");
       $(slide3).addClass('slide-invalid');
     }
+    if ($(slide4).hasClass("slide-clicked")) {
+      console.log("has class");
+    } else {
+      console.log("does not have class");
+      $(slide4).addClass('slide-invalid');
+    }
   });
   $('#gd-skills').click( function(){
     $(this).addClass('slide-clicked');
@@ -47,6 +54,10 @@ function form() {
     $(this).removeClass('slide-invalid');
   });
   $('#public-speaking').click( function(){
+    $(this).addClass('slide-clicked');
+    $(this).removeClass('slide-invalid');
+  });
+  $('#critique').click( function(){
     $(this).addClass('slide-clicked');
     $(this).removeClass('slide-invalid');
   });

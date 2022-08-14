@@ -557,10 +557,18 @@ textarea {
   height: 100px;
 }
 form button {
-  margin: 25px 0;
+  margin: 25px 0 25px 20px;
+  font-size: 2em;
+  padding: 3px 15px 5px 14px;
+  transition: .5s;
+}
+form button:hover {
+  background-color: $primary-color;
+}
+input::file-selector-button  {
+  padding: 3px 7px 5px 6px;
 }
 form button, input::file-selector-button  {
-  padding: 3px 7px 5px 6px;
   border: 2px solid $dark-color;
   background: none;
   font-family: $font-stack-headings;
@@ -627,6 +635,7 @@ form button, input::file-selector-button  {
   background-color: tomato;
 }
 form ol {
+  padding-left: 20px;
 }
 ul.range-labels {
   margin: 0;
