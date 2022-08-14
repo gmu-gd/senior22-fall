@@ -1,0 +1,22 @@
+{% assign subMon = 8 | times: 24 | times: 60 | times: 60 %}
+{% assign subWed = 8 | times: 24 | times: 60 | times: 60 %}
+{% assign monDate = site.time | date: '%s' | minus: subMon | date: '%s' %}
+{% assign wedDate = site.time | date: '%s' | minus: subWed | date: '%s' %}
+{% assign curDate = site.time | date: '%s' %}
+{% for post in site.categories.due %}
+  {% assign postStartDate = post.date | date: '%s' %}
+  {% if post.day == "monday" and postStartDate <= monDate %}
+    <article class="single">
+      <span class="due">Due Wednesday, {% assign seconds = 9 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }} &mdash; {{post.title}}</span>
+      {{ post.content }}
+    </article>
+    <hr>
+  {% endif %}
+  {% if post.day == "wednesday" and postStartDate <= wedDate %}
+    <article class="single">
+      <span class="due">Due Monday, {% assign seconds = 12 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }} &mdash; {{post.title}}</span>
+      {{ post.content }}
+    </article>
+    <hr>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,25 @@
+<h2 class="section-title">What's Due?</h2>
+<p>Not sure what is due next class or in the future? Below is a quick list and you can find more information on the <a href="due/index.html">What's Due</a> page or on Blackboard.</p>
+{% assign counter = 0 %}
+{% for post in site.categories.due reversed %}
+  {% if post.pub == true %}
+    {% if counter < 2 %}
+      <hr>
+      {% if post.day == "monday" %}
+        <article class="home-due">
+          <h5>Wednesday</h5>
+          <h3>{% assign seconds = 9 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds  | date: "%B %d" }}</h3>
+          {{ post.excerpt }}
+        </article>
+      {% endif %}
+      {% if post.day == "wednesday" %}
+        <article class="home-due">
+        <h5>Monday</h5>
+          <h3>{% assign seconds = 12 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds  | date: "%B %d" }}</h3>
+          {{ post.excerpt }}
+        </article>
+      {% endif %}
+      {% assign counter = counter | plus: 1 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
