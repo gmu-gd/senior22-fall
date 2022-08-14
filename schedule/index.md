@@ -57,10 +57,9 @@ This schedule is a rough outline for class each week. It is very subject to chan
 
 ---
 
-### September 22 &mdash; Week 5
+### September 21 &mdash; Week 5
 #### Outline for the Day
-* SP: Timeline &amp; initial research small group meetings
-* E2: In class reference/research activity
+* SP: Individual meetings
 
 #### Due Next Class
 * SP: What your timeline says

@@ -3,91 +3,149 @@ layout: interior
 title: Syllabus
 ---
 ### General
-This is the syllabus for the _Summer 2022_ class of _AVT 411: Motion Design (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Tuesdays from 12&ndash;2 and Thursdays from 12&ndash;2. Office hours can also be scheduled outside of those times if necessary.
+This is the syllabus for the _Fall 2022_ class of _AVT 498: Senior Project (3 credits)_. The instructors are _Michael McDermott_ and _Juana Medina Rosas_. Michael can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Tuesdays from 11&ndash;1 and Thursdays from 1&ndash;3. Office hours can also be scheduled outside of those times if necessary. Juana can be reached by email at _jrosas6 at gmu dot edu_ and can be met with at her office hours.
 
-[Download a PDF version]({{ site.baseurl }}/assets/files/AVT411-Syllabus-Summer2022.pdf)
+We will also be holding open studio hours during the week where you can come work, get technical help, or get feedback on your work. Those open studio hours will be Mondays 12&ndash;2 starting August 29 and Thursday 12&ndash;2 starting August 25.
+
+<!-- [Download a PDF version]({{ site.baseurl }}/assets/files/AVT498-Syllabus-Fall2022.pdf) -->
 
 ### Delivery and Timing
-We will meet online twice a week on Mondays and Wednesdays from 4:30 to 7:10 on Zoom. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 8 weeks plus a final critique day and you can expect to work for 12 hours outside of class each week.
+We will meet in person once a week on Wednesdays from 4:30 to 7:10. Juana's class will meet in AB 1020 and Michael's class will meet in AB 1021. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
 
 ### Prerequisites
-AVT 217: Intro to Web Design and AVT 311: Graphic Design Principles and Methods
+AVT 311: Graphic Design Principles and Methods, AVT 313: Editorial Design, and AVT 414: Corporate Design and Branding
 
 ### Course Description
-Motion Design introduces the theories, techniques and practices of motion design and the integration of design, image, sound, video, and animation.
+This is an advanced design course that will focus on design concept and production. Students will learn the techniques, concepts, and processes essential to understanding how to create and execute a design project, from ideation to final product.
 
-### Overview
-This is not a software training course. Although there will be occasional in-class software demos a majority of the software skills will need to be self taught. Through the exercises, in-class workshops, projects, and critiques the students will learn the fundamental principles of time-based design grounded in traditional design principles.
+Students will participate in all aspects of the development and presentation of a cohesive and mature body of work. This will include concept development, research, writing, production, and presentation. Thesis exhibition work will be formally presented to a faculty committee for critique of the project itself and the designer’s presentation.
 
-Participants should finish the course with a working knowledge of motion design principles and methods as well as a better understanding of the production side of the medium.
+This course satisfies a Mason Core Integration Requirement for Synthesis and Capstone. The purpose of the synthesis course is to provide students with the opportunity to synthesize the knowledge, skills and values gained from the general education curriculum. Synthesis courses strive to expand students’ ability to master new content, think critically, and develop life-long learning skills across the disciplines. While it is not feasible to design courses that cover “all” areas of general education, synthesis courses should function as a careful alignment of disciplinary goals with a range of general education learning outcomes.
 
 ### Objectives
-* To improve general design skills
-* To have an understanding of storyboarding
-* To understand the technical aspects of motion design
-* To analyze how motion can enhance a narrative
-* To understand how static design principles apply to a motion-based medium
+* To create a body of work which synthesizes the student’s general education experience
+* To gain greater understanding of developing a design project
+* To participate in a collaborative environment and learn from multiple disciplines
+* To learn and demonstrate proper professional language and design skills
+* To demonstrate advanced proficiency in visual narrative through the use of tools at our disposition as designers (such as printers, scanners, cameras, software, etc).
+* To develop a project based on exploration, process, and iteration
+* To eloquently share findings after a meaningful and insightful journey
+* To exercise good time management skills
 
-### Textbook
-There is no textbook for this course.
+### Materials
+Pens & pencils
+Notebook/sketchbook
+Access to Adobe Creative Suite, primarily Photoshop, Illustrator, and InDesign.
+Cloud storage (box.com, sync.com, dropbox.com are recommended)
+External hard drive AND flash drive
+Access to the Internet
+Camera (can be your phone’s camera)
+Headphones
 
-### Programs
+### Books
+No books are required for this course. The following are suggested readings:
+* Change by Design by Tim Brown
+* Wired to Care: How Companies Prosper When They Create Widespread Empathy by Dev Patnaik
+* Creative Confidence by Tom & David Kelley
+* The Politics of Design: A (Not So) Global Design Manual for Visual Communication by Ruben Pater
+* Extra Bold: A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers
+* Ellen Lupton, Jennifer Tobias, Valentina Vergara, Farah Kafei, Kaleena Sales, Josh Halstead, Leslie Xia
+* Make Space: How to Set the Stage for Creative Collaboration by Scott Witthoft and Scott Doorley
 
-#### design
-You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester. See Technology Requirements for more information.
+### Course Requirements
+During this course each of you will develop a design project. You will conceptualize, plan, research, and execute the project with the guidance of your instructor. Your project is not restricted to a specific form or medium and we will review examples of previous projects. Each project will be accompanied by a 12-page booklet to document the process and insights from the project. We will rely on research, critical observation, exploration, and iteration to study and create design solutions. Students are required to follow the steps listed, while maintaining constant documentation (through visuals and prose) of their process and findings. At the end of the semester, after the culmination of the design project, you will present your project along with the findings made to a panel of faculty members. Aspects that influence your grade are listed in the rubrics shared along with the syllabus.  
 
-#### other
-Zoom (for class), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos), and a Vimeo account.
+#### 1. Proposal
+Students will write (1) a detailed design objective proposal. This proposal must include a solid argument for why you would like to work on this project as you culminate your education as a designer, what this project will entail, how it is intended to be done, and the timing for it (a simple outline will do, if/once approved we’ll work on a more detailed schedule). In your argumentation, demonstrating wholesome understanding of the context around the chosen topic is essential—what are the implications of this project? Why is the particular approach significant (to you and others)? How will it enrich your education and how? Thinking of these questions may lead to the best way to propose a project that may satisfy the requirements of the assignment and more importantly, help you make the most out of subjects you might be interested in exploring further previous to graduation.
 
-### Content
-This course consists of many shorter exercises, a few longer projects, quizzes, and in class discussions. The exercises are to begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and discussions will be used for critiques and analysis of relevant topics.
+#### 2. Timeline
+Once the project proposal is approved, students will work on a timeline that may outline, as best as possible, all considerations for the project.
 
-#### project 1: obstructions
-Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. You will create a short video and then create the same video three more times. Each new video will be created using a series of obstructions chosen in class. [More information here]({{ site.baseurl }}/projects).
+#### 3. Research & Exploration
+Students will research extensively their subject of interest and work consistently on explorations that suit their projects. Keeping an open mind, retaining a curious spirit, and being thorough in searches will lay the necessary groundwork for the project.  
 
-#### project 2: something in motion
-Project two will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course. [More information here]({{ site.baseurl }}/projects).
+#### 4. Execution
+Once the research phase underway, students will start developing design solutions. Sketches and descriptions of the envisioned solutions will be shared with the group at large.
 
-### Engagement
-This course has an engagement policy instead of an attendance policy. Your engagement will affect your final grade (and, by extension, the quality of your work) for this course. You are expected to actively and passionately take part in this course in the following ways.
+#### 5. Iteration
+As solutions start to be presented, students will offer feedback that may be integrated into the projects. This phase is indispensable to ensure the efficacy of the design created. Students are expected to offer useful feedback to their peers as much as they will be expected to gracefully accept and incorporate input shared with them. Design is a collaborative practice. Participation in critique will be fundamental for successful outcomes.  
 
-* Attend class meetings
-* Create things and be prepared to show them on time.
-* Make things thoughtfully, intentionally, and with intensity.
-* Meet all deadlines for handing in work and process.
-* Actively participate in critiques both in class and out of class.
-* Be curious about making things and the things your classmates make.
-* Care about yourself & your work, your classmates & their work, and this class.
+#### 6. Documentation
+Throughout the semester, students are required to maintain active documentation. Using prose/voice over, diagrams, sketches, and photographs, students will reflect and share their findings every other week. These findings will be later distilled and integrated into the project, booklet, and final presentation. In order to have a tangible way of perceiving the progress made throughout the course in a format that includes not just final product but the journey taken (celebrating insights and failures alike) to achieve it.
 
-### Grading
-Grades will be based on engagement (25%), exercises (25%), and projects (50%).
+#### 7. Presentation
+As the project is coming to a culmination, we will start working on a presentation that effectively compiles the initial seed question/interest that drove the project, the journey taken, and ultimately, the findings/design solution. Use of design language and reliance on tools for effective communication (oral & visual) will be expected. There will be a rehearsal presentation prior to the final presentation, which will be attended by fellow students, and multiple faculty members.    
 
-#### engagement (25%)
-This percentage will be based on your engagement in the class which is explained on previous page but will include attendance, discussion and readings, critiques, and overall participation. Be engaged in this course and its content throughout the semester and this should be an easy 25%.
+### Attendance
+This is an in-person course. As such, you are expected to attend class. Because of the nature of this course, we will arrange meetings at a given pace that suits your project. Please arrive on time to our meetings and critiques. Delays and poor attendance may result in failure of this course. Arriving late or leaving early (this includes breaks, too) will affect your grade. Please make sure to sign your name to the list as soon as you enter the classroom, do not sign in others’ behalf.
 
-#### exercises (25%)
-The exercises are graded using a basic rubric show in the PDF version of the syllabus. The rubric includes your ability to follow the instructions of the exercise and your ability to submit it on time. The exercises are meant to be quicker, skill building tasks that improve your projects and design knowledge.
+Given the unusual circumstances the pandemic forces to juggle with, I do not expect you to come to class if you are feeling sick. I do, however, expect you to communicate with me in order to make any accommodations needed as soon as they arise.
 
-#### projects  (50%)
-Each project will generate two different grades. One grade will be based on your ability to submit the required, weekly checkpoints for the project. These weekly checkpoints use a simple rubric based on your effort, timeliness, improvement, and completion. The second grade will be based on the final project you submit and has a more extensive rubric. At the end of the semester you will have 6 total project grades that are all weighted equally for this 50%. The rubrics used for grading the checkpoints and projects are in the PDF syllabus.
+### Deadlines
+Work is expected to be turned in on time. Work turned in late will receive grade deductions. Each project will have its own Discussion Board on Blackboard. Please post assignments on their due dates, using the nomenclature described in the corresponding assignment sheets.   
 
-#### rubrics
-Rubrics are used to grade exercises, projects, and checkpoints. The rubrics are available in the PDF syllabus.
+Back-up your work. Technology can and will, quite unfortunately, fail. You are expected to keep your files secured, despite any computer/software issues. These failures (computer crashes, printer out of toner, InDesign glitches, etc) will not excuse you from presenting work in a timely manner.
+
+### Revisions
+We learn through repetition, revision, and iteration. Therefore, you are strongly encouraged to revise, improve, and finesse all projects worked on. While projects ought to be turned in on their due dates, you can continue to improve you projects throughout the semester, to present revised versions during Final Critique. Working on these revisions will only influence your final grade positively.  
+
+### Evaluation
+Critique is the process we will use to identify and evaluate the work created during class. Take notes, ask questions, participate with intention.
+
+Accept feedback and offer feedback. Critique is beneficial to the creative work we make. Not only will your participation be factored into your grade, but it will ensure you exercise critical observation and communication skills you will need in your career as a designer. Participate actively in critique, we will all benefit greatly from it.
+
+### Special Accommodations
+If you need any special accommodations, please communicate these to me at the beginning of the course or as soon as they arise.
+
+### Comity and Performance
+Be respectful and act professionally (even while you’re still a student). The classroom is a safe space to explore and question design aspects and approaches. To benefit extensively from our meetings, please make sure to act and communicate with tolerance, respect, and civility.
+
+Strive to create work you love. At first not everything will come out the way you envision it and that is okay. You are still learning, after all! The more you try, the more skills you will garner, making the creative process easier for you. Learn and admire other designer’s work (you’re welcome to copy it as a
+personal exercise if you feel so inclined); but when it comes to deadlines, do not plagiarize. I want to see YOUR ideas at work.   
+
+We thrive working together. Reach out and learn from your peers, building a supportive community will offer growth, inspiration, and a more exciting environment where to learn.   
+
+Though I am guiding this course, I will ask for your input on your performance. Doing so allows me to be a better educator. This course may be a required course for you. I hope it also offers inspiration as you culminate your education as a creative.
+
+### Work in Class
+There will be periods of work during class time. Please use this time wisely, to work on class-related projects only. You are making a considerable investment, make the most out of it, save social media and other social interactions for after class.
 
 ### Communication
-Your ability to communicate with me is of prime importance in this course. If you are going to be absent, late, or not have your work, it will be your best interest in  communicating those things to me in advance. I do not need to know your reasons for being absent, late, or not having your work but I do need to know. A simple, short email will be fine.
+Whenever in doubt, ask. I may not have all answers but want to make sure I can offer guidance and advocate for you. If something is not clear, if you are facing challenging circumstances, reach out to me (either via email: jrosas6@gmu.edu; in person, or during office hours), do not wait until the last minute to ask for help.
 
-The same goes for if you are struggling in this class or having other issues that are hindering your ability to complete work in this class. The more you keep me in the loop the more I can help you and adjust as needed.
+All communication may happen either in person or via email, using your GMU email address. No class communication will take place via social media or personal email.
+
+### Final Critique
+Your attendance during final critique is indispensable. Final critique offers a wholesome view of all the work developed during the semester. It is also a unique opportunity to celebrate what you have learned and accomplished. Please make the necessary arrangements to ensure you will be present during our final meeting and for its whole duration. Not attending final critique will result in automatic failure of this course.
+
+### Grading
+There are four main aspects that influence your grade: participation, punctuality, commitment, and craft. For further information on grading, please refer to the course rubrics on Blackboard or in the PDF syllabus. These will let you know in detail the information taken into account when it comes to evaluation.
+
+### Technical Gaps
+This is NOT a technical course. You are encouraged to find tutorials and resources that may increase your understanding of the software we will be using to create our work.  
+
+### Stay Healthy
+Do not brag about all-nighters. Your health is precious. Though you are expected to create work outside of class (average of 6 hours per week), no work from this course should keep you from sleeping, something essential for our best functioning inside and outside the classroom.
+
+If you are feeling sick, please do not come to class. Do let me know if you will be absent (do not wait to tell me weeks later, please) so we can make any necessary arrangements.  
+
+Food and drinks are NOT allowed in the lab. Please refrain from eating or drinking inside the classroom (you may step out briefly, at your discretion). Do not plan your mealtimes during our class hours.
+
+### Zoom
+In the event that external factors were to cause this course to switch to online format, we will adapt as best as possible and hold our meetings virtually. Attendance and participation will still be counted towards your grade, projects will still be expected to be turned in in a timely manner.
+
+Whether class is in person or online, we may hold one-on-one meetings via Zoom during office hours. Please make sure to attend these punctually to take profit of our time together.
+
+When it comes to video conferencing and virtual learning, to ensure the best communication possible—I’m aware of occasional limitations and unique circumstances—you are strongly encouraged to maintain your cameras turned on while we meet. If you are in a public space, please wear headphones to avoid distractions and maintain our conversation direct.
+
+### Safe Space
+This class will aim to function as a collaborative, inclusive, and equitable space. In order to offer a more welcoming classroom, we collectively commit to creating a respectful and supportive environment where we all may flourish. Demeaning or discriminatory language and/or actions will not be tolerated.
 
 ### Weekly Schedule
-Class is on Mondays and Wednesdays from 4:30–7:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
-
-A note&mdash;Time management is an important skill to master and should be worked on all your classes. Staying up all night working is not a badge of honor, it typically means you didn't budget your time correctly. Staying up all night isn't healthy and, especially now, making sure you are keeping yourself healthy is your first priority.
-
-A second note&mdash;Rendering doesn't happen in five minutes (most of the time). In order to be prepared for class you will most likely need to render things prior to showing up in class. After Effects allows work to be previewed but can be laggy and difficult in certain situations. All work we are reviewing should be rendered as a video file outside of After Effects.
+Class is on Wednesdays from 4:30–7:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
 
 ### Semester Schedule
-The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this spring. It is subject to additions and subtractions.
+The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this fall. It is subject to additions, subtractions, and general changes.
 
 ### Discussion of Work
 You will need to take an active role in both the presentation and discussion of your work. We will review projects in a variety of ways and you are expected to be able to talk and write about your own work and give feedback to your peers about their work. The ability to discuss your work and other student’s work is a very important part of your education at Mason. Use this class to improve on those skills.

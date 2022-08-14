@@ -96,6 +96,7 @@ textarea {
 
 $font-stack-body: sofia-pro, sans-serif;
 $font-stack-bighead: rig-solid-bold-halftone, sans-serif;
+$font-stack-student: rig-solid-bold-fill, sans-serif;
 $font-stack-headings: sofia-pro-soft, sans-serif;
 $primary-color: #c200fb;
 $secondary-color: #39A0ED;
@@ -294,16 +295,31 @@ section {
   border: 3px solid $dark-color;
   cursor: pointer;
 }
+.student {
+  margin: 0;
+  padding: 0;
+  font-family: $font-stack-student;
+  transition: .5s ease;
+}
+.student p {
+  text-align: center;
+  font-size: 3rem;
+  margin: 0;
+  padding: 25px 0;
+  // line-height: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
 .student:hover, .tutorial:hover {
   background-color: $primary-color;
 }
 .student:nth-child(3n+3) {
   margin-right: 0;
 }
-.student a, .tutorial a, .tutorial p, .tutorial h5 {
+.tutorial a, .tutorial p, .tutorial h5 {
   transition: color .5s ease;
 }
-.student:hover a, .tutorial:hover a, .tutorial:hover p, .tutorial:hover h5 {
+.tutorial:hover a, .tutorial:hover p, .tutorial:hover h5 {
   color: $light-color;
 }
 section.projects {
