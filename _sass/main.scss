@@ -97,7 +97,7 @@ textarea {
 $font-stack-body: sofia-pro, sans-serif;
 $font-stack-bighead: rig-solid-bold-halftone, sans-serif;
 $font-stack-headings: sofia-pro-soft, sans-serif;
-$primary-color: #1DFFA8;
+$primary-color: #c200fb;
 $secondary-color: #39A0ED;
 $dark-color: #1a1a1a;
 $light-color: white;
@@ -543,7 +543,7 @@ input, textarea {
   padding: 3px;
   font-family: $font-stack-body;
 }
-input:focus, form.submitted input:invalid:focus, form.submitted textarea:invalid:focus {
+input:focus, textarea:focus, form.submitted input:invalid:focus, form.submitted textarea:invalid:focus {
   outline: none;
   border: 2px solid $primary-color;
   box-shadow: 0 0 5px $primary-color;
