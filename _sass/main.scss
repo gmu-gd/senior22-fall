@@ -551,6 +551,9 @@ hr {
 form {
   width: 100%;
 }
+label {
+  font-size: 1.2em;
+}
 label, input, textarea {
   width: 100%;
 }
@@ -564,6 +567,9 @@ input#portrait-but {
   border: none;
   margin: 10px 0 0 0;
   padding: 0;
+}
+input.slider {
+  border: none;
 }
 input:focus, textarea:focus, form.submitted input:invalid:focus, form.submitted textarea:invalid:focus {
   outline: none;
@@ -583,6 +589,9 @@ form button {
   font-size: 2em;
   padding: 3px 15px 5px 14px;
   transition: .5s;
+}
+form button#sub-but a, form button#sub-but a:active, form button#sub-but a:visited, form button#sub-but a:hover {
+  color: $dark-color;
 }
 form button:hover {
   background-color: $primary-color;
