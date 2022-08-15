@@ -1,6 +1,6 @@
 ---
 layout: interior
-title: A Few Questions
+title: Pre-Class Form
 ---
 
 <form id="sp-form" action="https://getform.io/f/5b6a3696-e405-43ee-a72e-e391bd0f83a1"  method="POST" enctype="multipart/form-data">
