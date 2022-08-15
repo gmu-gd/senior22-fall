@@ -141,7 +141,7 @@ ul {
   padding: 0;
 }
 li {
-  padding: 0 25px 0 0;
+  padding: 0 0 0 0;
   margin: 15px 0 0;
   text-transform: uppercase;
   letter-spacing: .05rem;
@@ -558,6 +558,12 @@ input, textarea {
   margin: 5px 0 25px;
   padding: 3px;
   font-family: $font-stack-body;
+  border: 2px solid $dark-color;
+}
+input#portrait-but {
+  border: none;
+  margin: 10px 0 0 0;
+  padding: 0;
 }
 input:focus, textarea:focus, form.submitted input:invalid:focus, form.submitted textarea:invalid:focus {
   outline: none;
@@ -573,7 +579,7 @@ textarea {
   height: 100px;
 }
 form button {
-  margin: 25px 0 25px 20px;
+  margin: 70px 0 25px;
   font-size: 2em;
   padding: 3px 15px 5px 14px;
   transition: .5s;
@@ -649,9 +655,6 @@ form button, input::file-selector-button  {
 }
 .slide-invalid {
   background-color: tomato;
-}
-form ol {
-  padding-left: 20px;
 }
 ul.range-labels {
   margin: 0;

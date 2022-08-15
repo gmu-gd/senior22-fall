@@ -2,7 +2,7 @@
 layout: interior
 title: Thank You
 ---
-Thanks for submitting the form!
+Thanks for answering our questions!
 
 While you are here are a few other things for you to check out:
 * Join the Discord/Slack
