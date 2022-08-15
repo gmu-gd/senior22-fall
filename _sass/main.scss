@@ -590,7 +590,7 @@ form button {
   padding: 3px 15px 5px 14px;
   transition: .5s;
 }
-form button#sub-but a, form button#sub-but a:active, form button#sub-but a:visited, form button#sub-but a:hover {
+form button#sub-but , form button#sub-but:visited, form button#sub-but:visited, form button#sub-but:hover {
   color: $dark-color;
 }
 form button:hover {
