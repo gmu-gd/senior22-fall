@@ -8,4 +8,4 @@ While you are here are a few other things for you to check out:
 * Join the Discord/Slack
 * Read the [syllabus]({{ site.baseurl }}/syllabus/)
 * Look at the [schedule]({{ site.baseurl }}/schedule/)
-* Set up a Miro board
+* Go look at [Blackboard](https://mymason.gmu.edu)
