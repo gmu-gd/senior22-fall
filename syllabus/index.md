@@ -5,7 +5,7 @@ title: Syllabus
 ### General
 This is the syllabus for the _Fall 2022_ class of _AVT 498: Senior Project (3 credits)_. The instructors are _Michael McDermott_ and _Juana Medina Rosas_. Michael can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Mondays and Thursdays from 12&ndash;2. Office hours can also be scheduled outside of those times if necessary. Juana can be reached by email at _jrosas6 at gmu dot edu_ and can be met with at her office hours.
 
-<!-- [Download a PDF version]({{ site.baseurl }}/assets/files/AVT498-Syllabus-Fall2022.pdf) -->
+A PDF version of the syllabus can be found on Blackboard.
 
 ### Delivery and Timing
 We will meet in person once a week on Wednesdays from 4:30 to 7:10. Juana's class will meet in AB 1020 and Michael's class will meet in AB 1021. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
@@ -127,7 +127,7 @@ This is NOT a technical course. You are encouraged to find tutorials and resourc
 ### Stay Healthy
 Do not brag about all-nighters. Your health is precious. Though you are expected to create work outside of class (average of 6 hours per week), no work from this course should keep you from sleeping, something essential for our best functioning inside and outside the classroom.
 
-If you are feeling sick, please do not come to class. Do let me know if you will be absent (do not wait to tell us weeks later, please) so we can make any necessary arrangements.  
+If you are feeling sick, please do not come to class. Do let us know if you will be absent (do not wait to tell us weeks later, please) so we can make any necessary arrangements.  
 
 Food and drinks are NOT allowed in the lab. Please refrain from eating or drinking inside the classroom (you may step out briefly, at your discretion). Do not plan your mealtimes during our class hours.
 
