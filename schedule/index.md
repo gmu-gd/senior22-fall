@@ -8,13 +8,13 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ### August 24 &mdash; Week 1
 #### Outline for the Day
 * All section meeting
-* Review syllabus
-* Set expectations
-* Cover class format
-* Introduce committee options
-* E1: I am for a design that is...
+* Review syllabus (together)
+* Set expectations (together)
+* Cover class format (together)
+* Introduce committee options (together)
+* E1: I am for a design that is... (together)
 <!-- * E2: [Making a Plan]({{ site.baseurl }}/projects#e2) -->
-* Senior Project: Introduction and proposal guidelines
+* Senior Project: Introduction and proposal guidelines (together)
 <!-- * E2: [Making a Plan]({{ site.baseurl }}/projects#e2) -->
 
 #### Due Next Class
@@ -27,7 +27,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 #### Outline for the Day
 * Share E1
 * SP: Proposal critique
-* SP: Presentation guidelines
+* SP: Presentation guidelines (together)
 * Committee selection
 
 #### Due Next Class
@@ -38,8 +38,8 @@ This schedule is a rough outline for class each week. It is very subject to chan
 
 ### September 7 &mdash; Week 3
 #### Outline for the Day
-* SP: Presentations
-* Creating a project timeline
+* SP: Presentations (switch)
+* Creating a project timeline (together)
 
 #### Due Next Class
 * SP: Project timeline
@@ -50,7 +50,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ### September 14 &mdash; Week 4
 #### Outline for the Day
 * SP: Timeline &amp; initial research small group meetings
-* E2: In class reference/research activity
+* E2: In class reference/research/iteration activity
 
 #### Due Next Class
 * SP: What your timeline says
@@ -68,7 +68,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 
 ### September 28 &mdash; Week 6
 #### Outline for the Day
-* SP: Small group check ins on progress
+* SP: Small group check ins on progress (together)
 * Committee check ins
 
 #### Due Next Class
@@ -96,7 +96,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 
 ### October 19 &mdash; Week 9
 #### Outline for the Day
-* SP: Small group check ins on progress
+* SP: Small group check ins on progress (together)
 * Committee check ins
 
 #### Due Next Class
@@ -116,6 +116,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ### November 2 &mdash; Week 11
 #### Outline for the Day
 * SP: Opposite instructor check in
+* E3: In class activity
 
 #### Due Next Class
 * SP: What your timeline says
@@ -125,13 +126,14 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ### November 9 &mdash; Week 12
 #### Outline for the Day
 * SP: Due
+* SP: Show and Tell
 
 ---
 
 ### November 16 &mdash; Week 13
 #### Outline for the Day
 * Exhibition work
-* Project documentation
+* Digital and physical project documentation
 * Project maintenance
 
 ---

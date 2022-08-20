@@ -40,6 +40,50 @@ title: Pre-Class Form
       <label for="describe">Use five adjectives to describe yourself.</label>
       <textarea type="textarea" name="describe" required></textarea>
     </fieldset>
+    <h3>More about you</h3>
+    <fieldset>
+      <label for="define">How do you define graphic design?</label>
+      <textarea type="textarea" name="define" required></textarea>
+    </fieldset>
+    <fieldset>
+      <label for="strengths">What are some of your biggest strengths as a designer?</label>
+      <textarea type="textarea" name="strengths" required></textarea>
+    </fieldset>
+    <fieldset>
+      <label for="weaknesses">What are some of your biggest weaknesses as a designer?</label>
+      <textarea type="textarea" name="weaknesses" required></textarea>
+    </fieldset>
+    <fieldset>
+      <label for="failure">List a failure that has taught you something unexpected.</label>
+      <textarea type="textarea" name="failure" required></textarea>
+    </fieldset>     
+    <h3>Things you're interested in</h3>
+    <p>If you have more than one answer for any of these feel free to include multiple.</p>
+    <fieldset>
+      <label for="book">Name a book you love.</label>
+      <input type="text" name="book" required>
+    </fieldset>
+    <fieldset>
+      <label for="movie">Name a movie or TV show you love.</label>
+      <input type="text" name="movie" required>
+    </fieldset>
+    <fieldset>
+      <label for="music">Name a musician or podcast you love.</label>
+      <input type="text" name="music" required>
+    </fieldset>
+    <fieldset>
+      <label for="social-issue">Name a social issue you feel passionate about.</label>
+      <input type="text" name="social-issue" required>
+    </fieldset>  
+    <h3>For the Class</h3>
+    <fieldset>
+      <label for="project-ideas">Do you have any ideas (content and/or form) for your senior project?</label>
+      <textarea type="textarea" name="accomplish" required></textarea>
+    </fieldset>
+    <fieldset>
+      <label for="relate">How do these ideas relate to your education as a graphic designer?</label>
+      <textarea type="textarea" name="relate" required></textarea>
+    </fieldset>
     <h3>Confidence Levels</h3>
     <p>Click on the bar closest to the statement that best describes your abilities within the scale.</p>
     <fieldset>
@@ -86,45 +130,6 @@ title: Pre-Class Form
         </ul>
       </div>
     </fieldset>
-    <h3>More about you</h3>
-    <fieldset>
-      <label for="define">How do you define graphic design?</label>
-      <textarea type="textarea" name="define" required></textarea>
-    </fieldset>
-    <fieldset>
-      <label for="strengths">What are some of your biggest strengths as a designer?</label>
-      <textarea type="textarea" name="strengths" required></textarea>
-    </fieldset>
-    <fieldset>
-      <label for="weaknesses">What are some of your biggest weaknesses as a designer?</label>
-      <textarea type="textarea" name="weaknesses" required></textarea>
-    </fieldset>
-    <fieldset>
-      <label for="failure">List a failure that has taught you something unexpected.</label>
-      <textarea type="textarea" name="failure" required></textarea>
-    </fieldset>
-    <fieldset>
-      <label for="accomplish">What would you like to accomplish during this course?</label>
-      <textarea type="textarea" name="accomplish" required></textarea>
-    </fieldset>      
-    <h3>Things you're interested in</h3>
-    <p>If you have more than one answer for any of these feel free to include multiple.</p>
-    <fieldset>
-      <label for="book">Name a book you love.</label>
-      <input type="text" name="book" required>
-    </fieldset>
-    <fieldset>
-      <label for="movie">Name a movie or TV show you love.</label>
-      <input type="text" name="movie" required>
-    </fieldset>
-    <fieldset>
-      <label for="music">Name a musician or podcast you love.</label>
-      <input type="text" name="music" required>
-    </fieldset>
-    <fieldset>
-      <label for="social-issue">Name a social issue you feel passionate about.</label>
-      <input type="text" name="social-issue" required>
-    </fieldset>  
     <h3>The Future</h3>
     <fieldset>
       <label for="two-years">What would you like to accomplish 2 years from now?</label>
@@ -141,11 +146,6 @@ title: Pre-Class Form
     <fieldset>
       <label for="dream-job">What would be your dream job? Be as specific as you want.</label>
       <textarea type="textarea" name="dream-job" required></textarea>
-    </fieldset>
-    <h3>A Portrait</h3>
-    <fieldset class="special">
-      <label for="portrait">Take 10 minutes to draw a self-portrait of you in ten years and upload the file here. Be as specific as you want: what are you doing? what are you wearing? where are you? is someone with you? REMINDER: your skills will NOT be graded, your participation IS being graded.</label>
-      <input type="file" name="portrait" id="portrait-but" required>
     </fieldset>
   <button id="sub-but" type="submit">Submit</button>
 </form>
