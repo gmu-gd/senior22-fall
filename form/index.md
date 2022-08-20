@@ -89,7 +89,7 @@ title: Pre-Class Form
     <fieldset>
       <div class="slidecontainer">
         <label for="gd-skills">How confident do you feel about your skills in graphic design?</label>
-        <input type="range" min="1" max="100" value="50" class="slider" id="gd-skills" name="gd-skills" required>
+        <input type="range" min="1" max="100" value="1" class="slider" data-clicked="false" id="gd-skills" name="gd-skills" required>
         <ul class="range-labels">
           <li class="label-left">not confident</li>
           <li class="label-center">somewhat confident</li>
@@ -100,7 +100,7 @@ title: Pre-Class Form
       <fieldset>
       <div class="slidecontainer">
         <label for="gd-understanding">How confident do you feel about your understanding of graphic design?</label>
-        <input type="range" min="1" max="100" value="50" class="slider" id="gd-understanding" name="gd-understanding" required>
+        <input type="range" min="1" max="100" value="1" class="slider" data-clicked="false" id="gd-understanding" name="gd-understanding" required>
         <ul class="range-labels">
           <li class="label-left">not confident</li>
           <li class="label-center">somewhat confident</li>
@@ -111,7 +111,7 @@ title: Pre-Class Form
     <fieldset>
       <div class="slidecontainer">
         <label for="public-speaking">How confident do you feel about your public speaking skills?</label>
-        <input type="range" min="1" max="100" value="50" class="slider" id="public-speaking" name="public-speaking" required>
+        <input type="range" min="1" max="100" value="1" class="slider" data-clicked="false" id="public-speaking" name="public-speaking" required>
         <ul class="range-labels">
           <li class="label-left">not confident</li>
           <li class="label-center">somewhat confident</li>
@@ -122,7 +122,7 @@ title: Pre-Class Form
     <fieldset>
       <div class="slidecontainer">
         <label for="critique">How confident do you feel about your critique  skills?</label>
-        <input type="range" min="1" max="100" value="50" class="slider" id="critique" name="critique" required>
+        <input type="range" min="1" max="100" value="1" class="slider" data-clicked="false" id="critique" name="critique" required>
         <ul class="range-labels">
           <li class="label-left">not confident</li>
           <li class="label-center">somewhat confident</li>
@@ -148,4 +148,5 @@ title: Pre-Class Form
       <textarea type="textarea" name="dream-job" required></textarea>
     </fieldset>
   <button id="sub-but" type="submit">Submit</button>
+  <p id="warning" class="w-hidden">Please select a value for each slider.</p>
 </form>

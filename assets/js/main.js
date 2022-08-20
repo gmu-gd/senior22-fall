@@ -14,52 +14,34 @@ $(document).ready(function() {
     })
 });
 function form() {
+  var sliders = ["#gd-skills", "#gd-understanding", "#public-speaking", "#critique"];
+  console.log(sliders);
+  var i;
+  var j;
+  for (i = 0; i < sliders.length; i++) {
+    $(sliders[i]).click( function (){
+      $(this).attr("data-clicked", "true");
+      $(this).removeClass("slide-invalid");
+      $(this).addClass("slide-clicked");
+      if ( $(sliders[0]).attr('data-clicked') == 'true' && $(sliders[1]).attr('data-clicked') == 'true' && $(sliders[2]).attr('data-clicked') == 'true' && $(sliders[3]).attr('data-clicked') == 'true' ) {
+        $("#warning").addClass("w-hidden");
+      }
+    });
+  };
   $('#sub-but').click( function(){
     $('#sp-form').addClass('submitted');
-    var slide1 = document.getElementById('gd-skills');
-    var slide2 = document.getElementById('gd-understanding');
-    var slide3 = document.getElementById('public-speaking');
-    var slide4 = document.getElementById('critique');
-    if ($(slide1).hasClass("slide-clicked")) {
-      console.log("has class");
-    } else {
-      console.log("does not have class");
-      $(slide1).addClass('slide-invalid');
+    for (j = 0; j < sliders.length; j++) {
+      if ($(sliders[j]).attr('data-clicked') == 'false' ) {
+        $("#sp-form").submit(function(e){
+          e.preventDefault();
+        });
+        $(sliders[j]).addClass("slide-invalid");
+        $("#warning").removeClass("w-hidden");
+      } else if ( $(sliders[0]).attr('data-clicked') == 'true' && $(sliders[1]).attr('data-clicked') == 'true' && $(sliders[2]).attr('data-clicked') == 'true' && $(sliders[3]).attr('data-clicked') == 'true' ) {
+        $("#sp-form")[0].submit();
+        console.log('submit the form!')
+      }
     }
-    if ($(slide2).hasClass("slide-clicked")) {
-      console.log("has class");
-    } else {
-      console.log("does not have class");
-      $(slide2).addClass('slide-invalid');
-    }
-    if ($(slide3).hasClass("slide-clicked")) {
-      console.log("has class");
-    } else {
-      console.log("does not have class");
-      $(slide3).addClass('slide-invalid');
-    }
-    if ($(slide4).hasClass("slide-clicked")) {
-      console.log("has class");
-    } else {
-      console.log("does not have class");
-      $(slide4).addClass('slide-invalid');
-    }
-  });
-  $('#gd-skills').click( function(){
-    $(this).addClass('slide-clicked');
-    $(this).removeClass('slide-invalid');
-  });
-  $('#gd-understanding').click( function(){
-    $(this).addClass('slide-clicked');
-    $(this).removeClass('slide-invalid');
-  });
-  $('#public-speaking').click( function(){
-    $(this).addClass('slide-clicked');
-    $(this).removeClass('slide-invalid');
-  });
-  $('#critique').click( function(){
-    $(this).addClass('slide-clicked');
-    $(this).removeClass('slide-invalid');
   });
 }
 function clickableDiv() {

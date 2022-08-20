@@ -585,7 +585,7 @@ textarea {
   height: 100px;
 }
 form button {
-  margin: 70px 0 25px;
+  margin: 70px 0 0;
   font-size: 2em;
   padding: 3px 15px 5px 14px;
   transition: .5s;
@@ -687,6 +687,13 @@ form.submitted input:invalid, form.submitted textarea:invalid, form.submitted in
 }
 form.submitted .special input#portrait-but:invalid {
   border: none !important;
+}
+p#warning {
+  font-size: .8em;
+  margin: 10px 0 25px;
+}
+.w-hidden {
+  visibility: hidden;
 }
  /* ==========================================================================
    Helper classes
