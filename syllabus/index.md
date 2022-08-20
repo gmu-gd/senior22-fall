@@ -92,7 +92,7 @@ Critique is the process we will use to identify and evaluate the work created du
 Accept feedback and offer feedback. Critique is beneficial to the creative work we make. Not only will your participation be factored into your grade, but it will ensure you exercise critical observation and communication skills you will need in your career as a designer. Participate actively in critique, we will all benefit greatly from it.
 
 ### Open Studio
-Once a week we will have open studio hours in one of the classrooms where you are encouraged to come and work, ask for feedback, or get technical help. Dates will be posted here soon.
+New this semester! The design faculty will be hosting open studio hours in room 1023. When the open studio is open, you will have access to computers, a space to work, or get feedback and help from the faculty member in the room. The schedule will be posted on the door of 1023. We will be in there at least once a week on separate days if you need feedback of help from us specifically.
 
 ### Special Accommodations
 If you need any special accommodations, please communicate these to us at the beginning of the course or as soon as they arise.
