@@ -77,7 +77,7 @@ title: Pre-Class Form
     </fieldset>  
     <h3>For the Class</h3>
     <fieldset>
-      <label for="project-ideas">Do you have any ideas (content and/or form) for your senior project?</label>
+      <label for="project-ideas">List at least 1 of your ideas (content and/or form) for your senior project?</label>
       <textarea type="textarea" name="accomplish" required></textarea>
     </fieldset>
     <fieldset>
