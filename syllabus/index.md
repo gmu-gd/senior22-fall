@@ -31,14 +31,14 @@ This course satisfies a Mason Core Integration Requirement for Synthesis and Cap
 * To exercise good time management skills
 
 ### Materials
-Pens & pencils
-Notebook/sketchbook
-Access to Adobe Creative Suite, primarily Photoshop, Illustrator, and InDesign.
-Cloud storage (box.com, sync.com, dropbox.com are recommended)
-External hard drive AND flash drive
-Access to the Internet
-Camera (can be your phone’s camera)
-Headphones
+* Pens & pencils
+* Notebook/sketchbook
+* Access to Adobe Creative Suite, primarily Photoshop, Illustrator, and InDesign.
+* Cloud storage (box.com, sync.com, dropbox.com are recommended)
+* External hard drive AND flash drive
+* Access to the Internet
+* Camera (can be your phone’s camera)
+* Headphones
 
 ### Books
 No books are required for this course. The following are suggested readings:
