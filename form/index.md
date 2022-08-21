@@ -6,6 +6,7 @@ title: Pre-Class Form
 <form id="sp-form" action="https://getform.io/f/5b6a3696-e405-43ee-a72e-e391bd0f83a1"  method="POST" enctype="multipart/form-data">
   <p>Welcome to Senior Design Project! I’m glad you could join us. Please take some time to answer the following questions as honestly as possible.</p>
   <p>This questionnaire will NOT be graded. Its intent is to let us get to know you better as a student (and human being), as well as to give us a clearer sense of your expectations for this course.</p>
+  <p>All the questions are required.</p>
     <h3>Admin</h3>
     <fieldset>
       <label for="teacher">Who is your Senior Project teacher?</label>
