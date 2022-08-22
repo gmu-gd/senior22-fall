@@ -139,7 +139,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ---
 
 ### November 23 &mdash; Week 14
-No class, Fall Break.
+* No class, Fall Break.
 
 ---
 
