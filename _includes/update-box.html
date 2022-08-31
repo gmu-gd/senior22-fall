@@ -1,7 +1,7 @@
 <h2 class="section-title">Look here!</h2>
 <p>Look here for any updates and announcements.</p>
 {% assign counter = 0 %}
-{% for post in site.categories.updates reversed %}
+{% for post in site.categories.updates %}
   {% if counter < 2 %}
     <hr>
     <article class="home-due">

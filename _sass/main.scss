@@ -102,6 +102,7 @@ $primary-color: #c200fb;
 $secondary-color: #39A0ED;
 $dark-color: #1a1a1a;
 $light-color: white;
+$error-color: #EB5160;
 * {
   box-sizing: border-box;
 }
@@ -312,6 +313,10 @@ section {
 }
 .student:hover, .tutorial:hover {
   background-color: $primary-color;
+}
+.student.no-link, .student.no-link:hover {
+  background-color: $error-color;
+  cursor: default;
 }
 .student:nth-child(3n+3) {
   margin-right: 0;
