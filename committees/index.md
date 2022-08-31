@@ -1,6 +1,6 @@
 ---
 layout: interior
-title: Syllabus
+title: Committees
 ---
 ### How to Choose
 You will be asked for your top 3 choices. The committee sizes mean that everyone will not be able to be on their first choice of committee. We will try to make sure everyone gets what they want but 20 people saying they want to work on the website just isn’t possible. Take a look at these carefully and think about your commitments this semester versus the duration of work for each committee and the kind/amount of work. Please come to class prepared with your top three.
