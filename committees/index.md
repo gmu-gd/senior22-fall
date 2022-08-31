@@ -41,7 +41,7 @@ Review the options below and come to class with your top three choices. The comm
 **Description:** Each member of the committee is responsible for meeting and managing a specific committee. Each member is the key contact person to go through when making requests of a specific committee.
 
 ### Social
-**Number of Students:** 6  
+**Number of Students:** 6 (at least one from each section)
 **Duration:** Weeks 2–15+  
 **Description:** Manage and populate the social media channels for the show. Can request graphics from the Promo team once they have started. Prior to week 6, the team is documenting classes and student work in progress. Team also is responsible for general documentation of work throughout the semester.
 
